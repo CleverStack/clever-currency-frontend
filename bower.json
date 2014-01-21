@@ -1,0 +1,25 @@
+{
+  "name": "clever-currency-frontend",
+  "version": "0.0.1",
+  "authors": [
+    "Daniel Durante <me@danieldurante.com>"
+  ],
+  "description": "This module provides a directive to create a select list of currencies that pulls in currencies from the cleverstack backend.",
+  "main": "main.js",
+  "keywords": [
+    "cleverstack",
+    "clevertech",
+    "cleverstack-module",
+    "cleverstack-frontend"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/CleverStack/clever-currency-frontend",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "rename": "cs_currency"
+}
